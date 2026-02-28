@@ -21,7 +21,7 @@ I enjoy working on end-to-end data projects — from data cleaning to model buil
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranjal-parashar-845b4b335" target="_blank">
+  <a href="https://www.linkedin.com/in/pranjal-parashar-845b4b335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
